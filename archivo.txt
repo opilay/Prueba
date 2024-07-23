@@ -1,2 +1,2 @@
 echo "Hola, este es mi primer archivo."
-echo "Nueva línea en el archivo."
+
